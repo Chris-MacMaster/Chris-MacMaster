@@ -1,16 +1,13 @@
-### Hi there 👋
+# Chris_MacMaster
 
-<!--
-**Chris-MacMaster/Chris-MacMaster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I am a junior full stack developer with progressive values. I also like to play games and enjoy the intenese 2023 NBA playoffs :). 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My current projects are below, feel free to check em out, especially if you're interested in Overwatch, Space, or clones of AirBnB web apps.
+
+
+* Group Up - (link)
+
+* Spacey - (link)
+
+* AirBnB - (link)
