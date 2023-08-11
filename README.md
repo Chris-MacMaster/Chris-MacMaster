@@ -1,6 +1,6 @@
 # Chris_MacMaster
 
 
-I am a junior full stack developer with progressive values. My hobbies include online games, watching basketball, and enjoying time outdoors. :)
+I am a junior full stack developer with a background in political science and survey research. My hobbies include online games, watching basketball, and enjoying time outdoors. :)
 
 
